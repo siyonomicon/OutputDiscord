@@ -1,5 +1,7 @@
 # ComfyUI Discord Output Nodes
 
+![](https://github.com/siyonomicon/OutputDiscord/blob/main/images/screenshot.png?raw=true)
+
 This repository contains two custom nodes for ComfyUI that allow you to upload images and videos directly to a Discord channel.
 
 ## Features
